@@ -1,0 +1,3 @@
+# Disposal {#disposal}
+
+Meaning of the “refuse bin” symbol on the Braumeister: Protect our environment; electrical devices should not be disposed of as household refuse. Make use of collection points for disposal of electrical devices and hand in all electrical devices that you no longer wish to use at these points. In this manner, you can avoid a potential impact on the environment and human health caused by incorrect disposal. This is your contribution to recycling and other forms of use of waste electrical and electronic equipment. You can find information on where to dispose of the devices from your district or municipal administration.

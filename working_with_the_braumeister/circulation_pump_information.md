@@ -1,0 +1,3 @@
+## Circulation pump information {#circulation-pump-information}
+
+While in the manual mode, the circulation pump can be switched on and off. It is important to vent the pump while in manual operating mode after filling it with liquid, so as to ensure that it does not run dry and possible incur damage. This can be achieved by filling the pump with water and switching it on and off several times (until no more air bubbles escape and the sound of the pump is barely inaudible). During the brewing process and while in manual mode, the pump switches off automatically as soon as the temperature exceeds 88°C. This protects the system. If the temperature drops to 84°C the operation continues.

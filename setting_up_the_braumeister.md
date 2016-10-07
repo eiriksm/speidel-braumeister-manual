@@ -1,0 +1,3 @@
+# Setting up the Braumeister {#setting-up-the-braumeister}
+
+The Braumeister must be positioned on a stable, secure and horizontal support structure prior to use. Careful! A full Braumeister vessel contains boiling hot beer wort and can weigh up to 30 kg, 50 kg or 90 kg. Horizontal positioning is a prerequisite for transfer pumping during the brewing process. Avoid an unsteady base. Most suitable are a stable wooden box or a table that is not too high. The Braumeister may not be moved during the brewing process. The handles are only meant for transporting the device in an empty state. It is imperative to keep children and frail persons away from the device while it is in operation.
