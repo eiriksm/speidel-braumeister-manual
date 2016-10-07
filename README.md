@@ -20,7 +20,7 @@ Operating/brewing instructions
 
 [Cleaning the Braumeister 6](export/cleaning_the_braumeister.md)
 
-[Storing the Braumeister 7](export/storing_the_braumeister.md)
+[Storing the Braumeister 7](storing_the_braumeister.md)
 
 [Prior to first use 7](export/prior_to_first_use.md)
 
