@@ -1,6 +1,4 @@
 # Summary
-
-* [test](README.md)
 * [General information](general_information.md)
 * [Safety instructions](safety_instructions/README.md)
   * [General safety instructions](safety_instructions/general_safety_instructions.md)
