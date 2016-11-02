@@ -1,26 +1,28 @@
-# Brewing faults/troubleshooting {#brewing-faults-troubleshooting}
+# Bryggefeil / feilsøking {#brewing-faults-troubleshooting}
+
+Ikke reparer enheten selv. Oppsøk heller en autorisert spesialist. For å unngå risiko bør defekte kontroller/strømkabler eller andre elektriske komponenter kun erstattes eller reparert av produsenten, vår kundeservice eller en person med tilsvarende kvalifiksasjoner.
 
 Do not repair the device yourself. Rather seek an authorised specialist. To avoid risks, defective controls/mains cables or other electrical components may only be replaced or repaired by the manufacturer, our customer service or a person with similar qualifications.
 
-| **Problem when brewing:** | **Troubleshooting** |
+| **Problem med brygging:** | **Feilsøking** |
 | --- | --- |
-| _Wort fountains shoot up during circulation_ | Malt is crushed too finely |
-| _Pump blocked_ | More thorough insertion of fine sieve/filter cloth and filter plates. Take more care when pouring into malt pipe. No malt into vessel! |
-| _Pump makes noises_ | Pump closed too tightly (hand tighten only) or not properly vented. |
-| _Reaching correct temperature takes too long_ | Close lid during heating up period. |
-| _Condensation forces its way out of the lid_ | Set up Braumeister in vertical position. |
-| _Circulation process does not start_ | Check whether pump is operating and vented. |
-| _Wort flows too slowly or not at all during purification_ | Use wooden spoon to pierce malt from top to bottom filter plate several times. Malt is crushed too finely -&gt; Break open corns only, do not grind finely. |
+| _Vørter skyter opp i fontener under sirkulasjon_ | Malten er knust for fint |
+| _Pumpen er blokkert_ | Mer nøye med å sette på rister eller filterplater. Følg nøye med når malten tømmes oppi maltpipen. Ingen malt i beholderen! |
+| _Pumpen lager lyd_ | Pumpen er lukket for hardt (skru kun med håndkraft) eller ikke ordentlig ventilert. |
+| _Det tar for lang tid å oppnå riktig temperatur_ | Sett på lokket under oppvarmingsperioden. |
+| _Kondens kommer ut av lokket_ | Sett opp Braumeisteren i stående posisjon. |
+| _Sirkulasjonen starter ikke_ | Sjekk om pumpen er åpen og ventilert. |
+| _Vørter renner for sakte eller ikke i det hele tatt i skylleprosessen_ | Bruk en tresleiv for å stikke hull hjennom malten fra toppen til bunnfilteret gjentatte ganger. Malten er knust for fint -> Knus kornene åpne, ikke finmal dem. |
 
-| **Problem with beer:** | **Troubleshooting** |
+| **Problem med ølen:** | **Feilsøking** |
 | --- | --- |
-| _Beer smells and tastes sour_ | Ingress of bacteria: pour beer away. Work more thoroughly in cold-process area. Brewing times possibly not long enough, therefore excess starch residue in beer. |
-| _Alcohol content too high_ | Decrease original wort content by adding water during the hops boiling process. |
-| _Alcohol content too low_ | Increase original wort content by increasing boiling time (water evaporation). |
-| _Various foreign odours_ | More cleanliness. |
-| _Fermentation does not start_ | Add more yeast. |
-| _Beer is cloudy_ | Store beer for longer period. |
-| _Carbon dioxide too low_ | Too much carbon dioxide lost during decanting or through pipe. |
-| _Carbon dioxide too low – beer foams over_ | Pressure too high – ventilate flip-top bottles more frequently. |
-| _Poor foam stability_ | Too little carbon dioxide. |
-| _Yield too low_ | Stir in malt more thoroughly |
+| _Ølen lukter og smaker surt_ | Innføring av bakterier. Tøm ut ølen. Jobb mer grundig i den "kalde" delen av prosessen. Bryggetiden er kanskje ikke lang nok, derfor er det for mye stivelse igjen i ølen. |
+| _Alkoholnivået er for høyt_ | Minsk styken på vørteren ved å tilsette vann i kokingen. |
+| _Alkoholnivået er for lavt_ | Øk styrken på vørteren ved å øke koketiden (vann fordamper). |
+| _Ulike uønskede lukter_ | Bedre renslighet. |
+| _Gjæringen starter ikke_ | Tilsett mer gjær. |
+| _Ølen er tåkete_ | Lagre ølen lengre. |
+| _For lite kullsyre_ | For mye kullsyre ble tapt under dektantering eller gjennom slangen. |
+| _For mye kullsyre, flasken spruter over_ | Trykket er for stort, ventiler flip-top flasker mer hyppig. |
+| _For dårlig skumfasthet_ | For lite kullsyre. |
+| _For lavt utbytte_ | Rør inn malt mer grundig. |
