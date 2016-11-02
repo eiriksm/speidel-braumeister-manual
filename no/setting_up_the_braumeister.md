@@ -1,0 +1,3 @@
+# Oppsett av Braumeisteren {#setting-up-the-braumeister}
+
+Braumeisteren må plasseres på en stabil, sikker og horisontal overflate før den tas i bruk. Advarsel! En full beholder inneholder kokende varm vørter og kan veie opp til 30 kg, 50 kg eller 90 kg. Horisontal posisjonering er en forutsetning for pumpen under brygging. Unngå en ustødig overflate. Mest egnet er en stabil boks av tre, eller et bord som ikke er for høyt. Braumeisteren må ikke flyttes under bryggeprosessen. Håndtakene er kun laget for å transportere en tom enhet. Det er viktig å holde barn og skrøpelige personer utenfor rekkevidde når enheten er i bruk.

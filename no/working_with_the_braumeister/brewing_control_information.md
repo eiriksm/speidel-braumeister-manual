@@ -1,0 +1,9 @@
+## Brewing control information {#brewing-control-information}
+
+Automatic mode:Press _Brewstart_, select a recipe and press _Select_ to start. Follow the instructions. A detailed description can be found in the chapter below “Brewing with the Braumeister”.
+
+Recipes: Up to 10 recipes can be stored when selecting the _Recipe_ function. When you receive the equipment, 2 recipes are included. Use the arrow keys to select a recipe first, create a new one or delete a recipe. Pressing the _Select_ function to change an existing recipe. The arrow keys allow you to modify any entries. Use the _Select_ key to move to the next recipe item until you have reached the end. Once all items of the recipe have been acknowledged by pressing the _Select_ key, the recipe is applied and stored.
+
+Manual operation: During the manual operating mode, the pump and the heater can be switched on and off. The simple in the upper right-hand corner indicates whether the pump is on or off. If the symbol is highlighted in yellow colour, the pump is on If the symbol is highlighted in light yellow, this indicates that the pump is activated, however, it is not on since the liquid is still too hot or the heater is activated and the actual value is greater then the setpoint. Use the _Temperature_ button on the right-hand side to set the target temperature; then, activate the arrow keys and the _Select_ button.
+
+Cancel: When pressing the _Abbort_ button, you are taken back the Start menu, regardless of the operating mode you are currently in (Automatic/Brew start/Recipes, and manual mode). While in Automatic mode, the red-coloured light elements are lit. A prompt will be displayed asking whether the procedure shall be finally aborted or whether this process shall continue.
