@@ -1,3 +1,3 @@
-# Something
+# Info
 
-Whatever dude, whatever.
+Lenke til nedlasting pdf / original
