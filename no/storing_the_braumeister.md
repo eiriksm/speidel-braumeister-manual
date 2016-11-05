@@ -1,3 +1,3 @@
-# Storing the Braumeister {#storing-the-braumeister}
+# Lagring av Braumeisteren {#storing-the-braumeister}
 
-The Braumeister must be stored in a dry location. Avoid contact with ferrous or rusty objects.
+Braumeisteren må lagres på et tørt sted. Unngå kontakt med jernholdige eller rustne okjekter.
