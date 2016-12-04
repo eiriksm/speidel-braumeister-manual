@@ -1,23 +1,23 @@
-# Guarantee conditions, handling a guarantee {#guarantee-conditions-handling-a-guarantee}
+# Garantivilkår, håndtering av garanti {#guarantee-conditions-handling-a-guarantee}
 
-**Conditions:**
+**Vilkår:**
 
-*   Statutory guarantee conditions apply. The guarantee period for users is reduced to the regulations applicable to commercial customers to the extent that they are making use of a device suitable for commercial use, including in part.
-*   Transmission of a copy of proof of purchase is a prerequisite for guarantee claims against us or one of our dealers. For verification of the guarantee refer to the note on handling a guarantee below.
-*   For quick processing of guarantee claims, please inform us immediately in writing upon noticing defects, and include a fault description and photos where applicable.
-*   No guarantee is given for defects due to non-adherence to the operating instructions, improper treatment or normal wear and tear of the device. Guarantee claims are also excluded in terms of brittle components or expendables such as seals or similar. Finally, guarantee claims are excluded where work is performed on the device by non-authorised parties.
+* Lovfestede garantivilkår gjelder. Garantiperioden for kundene er redusert til de bestemmelser som gjelder for kommersielle kunder i den utstrekning de bruker en enhet som er egnet for kommersiel bruk, inkludert delvis.
+* En kopi av kvittering er en forutsetning for bruk av garanti mot oss eller en av våre forhandlere. For å verifisere garantien, se notat om håndtering av garanti nedenfor.
+* For en kjapp prosessering av garantikrav, vennligst imformer oss umiddelbart skriftlig når du oppdager defekter og inkluder en feilbeskrivelse og foto der dette er relevant.
+* Ingen garanti gis for defekter som skyldes feiloperering i henhold til instruksjoner, uforsiktig bruk eller normal slitasje av enheten. Garantikrav gis heller ikke på skjøre eller utskiftbare deler som forseglinger eller liknende. I tillegg gis ikke garantikrav når arbeid er utført på enheten av uautoriserte personer.
 
-**Handling:**
+**Håndtering:**
 
-Should your device display any defects within the guarantee period, please inform us of your guarantee claim. The fastest and most convenient option is to return the device or the notice of defect to the dealer/agent responsible or directly to us:
+Skulle din enhet vise noen form for defekt innen garantiperioden, vær vennlig å informer oss om ditt garantikrav. Den kjappeste og mest praktiske måten er å returnere din enhet eller beskjed om defekten til din forhandler eller direkte til oss:
 
-email: **verkauf@speidel-behaelter.de**
+Epost: **verkauf@speidel-behaelter.de**
 
-or fax to: **0049 7473 9462 99**
+eller faks til: **0049 7473 9462 99**
 
-Please provide us with your **full address including contact details.** In addition, we require the **type designation** of the device in question, a short **fault description including photos, where applicable, the purchase date (copy of invoice)** and the **dealer** from whom you purchased the new device.
+Vær vennlig å oppgi din **fulle adresse, inkludert kontaktinfo.** I tillegg trenger vi **typebetegnelsen** på enheten det gjelder, en kort **feilbeskrivelse inkludert foto der dette er relevant, dato for innkjøp (kopi av kvittering)** og **forhandleren** som du kjøpte enheten fra.
 
-After verifying your notification of defect, we will contact you as soon as possible to agree the next step. Please, under no circumstances, send us your device by Carriage Forward.
+Etter vi har verifisert din beskjed om defekten vil vi kontakte deg så snart som mulig for å avtale neste steg. Vennligst ikke, under noen omstendighet, send oss din enhet vha postoppkrav.
 
 | de | Sollte die beiliegende Betriebsanleitung nicht in einer für Sie verständlichen Sprache vorliegen, so kontaktieren Sie diesbezüglich bitte Ihren zuständigen Händler. |
 | --- | --- |

@@ -1,11 +1,11 @@
-# Legal aspect of home brewing (valid in Germany): {#legal-aspect-of-home-brewing-valid-in-germany}
+# Lovlig aspekt ved hjemmebrygging (gyldig i Tyskland) {#legal-aspect-of-home-brewing-valid-in-germany}
 
-Hobby brewers who produce beer in their own residence for personal consumption may produce up to 200 l beer per year, tax-free. This beer may not be sold. Hobby brewers must provide the chief customs office responsible with notification prior to starting the first brewing procedure. The following is stipulated in the Ordinance on the Implementation of the German Beer Tax Law (BierStV):
+Hobbybryggere som lager sin egen øl i sitt eget hus for personlig konsum kan produsere opp til 200l øl i året, skattefritt. Denne ølen kan ikke selges. Hobbybryggere må kontakte sitt tollkontor med beskjed om at de akter å brygge, før de starter med første brygg. Dette er nedfelt i forordning om gjennomføring av den tyske ølskatteloven (BierStV):
 
-**§ 2 – Production by home and hobby brewers**
+**§ 2 – Produksjon av hjemme- og hobbygryggere**
 
-(1) Beer produced by home and hobby brewers in their own residences exclusively for own consumption and that is not sold is exempt from tax up to a quantity of 2 hectolitres per calendar year. Beer produced by home brewers in non-commercial communal breweries shall be deemed to have been produced in the residences of the home brewers.
+(1) Øl produsert av hjemme- og hobbygryggere i sitt eget hus utelukkende for personlig konsum, og at det ikke blir solgt er fritatt fra skatt opp til en mengde på 2 hektoliter per kalenderår. Øl produsert av hjemmebryggere i ikkekommersielle fellesbryggeri skal regnes som å ha blitt produsert i hjemmebryggerens hjem.
 
-(2) Home and hobby brewers are obliged to notify the chief customs office of the start of production and the production location in advance. The notification must indicate the planned quantity of beer to be produced in a calendar year. The chief customs office may grant concessions.
+(2) Hjemme- og hobbybryggere er pliktig å gi beskjed til sitt tollkontor om at det skal brygges, og bryggingens lokasjon før denne finner sted. Beskjeden skal indikere den planlagte mengden øl man ønsker å produsere i et kalenderår. Tollkontoret kan gi konsesjoner.
 
-You can find the customs office responsible in terms of notification of your first brewing procedure at [www.zoll-d.de](http://www.zoll-d.de/). The customs office can be notified by fax or by letter as follows, for example:
+Du kan finne de ansvarlige tollkontorene å gi beskjed til om ditt første brygg på [www.zoll-d.de](http://www.zoll-d.de/). Tollkontoret kan tilskrives via faks eller brev.

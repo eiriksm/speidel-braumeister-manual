@@ -1,3 +1,3 @@
-## Notes on the container lid {#notes-on-the-container-lid}
+## Om lokket {#notes-on-the-container-lid}
 
-The lid assists in reaching the temperatures more quickly in the heating up phase. The ventilation slits avoid pressure forming in the vessel and allow for a light air circulation. Higher water temperatures cause condensation to occur on the underside of the lid. When lifting the lid, ensure that you hold the lid rim over the vessel opening (at an angle) so that the condensation can run back into the vessel.
+Lokket bidrar til at temperaturen øker raskere når du varmer opp vørteren. Lokket har hull for ventilering for å unngå at trykk bygger seg opp inne i beholderen og bidrar til en lett sirkulasjon av luft. Høye temperaturer gjør at kondens samles på undersiden av lokket. Når du løfter lokket, sørg for at du holder kanten av lokket over beholderen slik at kondenden kan renne tilbake i beholderen.

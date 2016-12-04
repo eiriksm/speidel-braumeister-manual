@@ -1,35 +1,35 @@
-## Mashing {#mashing}
+## Mesking {#mashing}
 
-Mixing the malt grist with water is known as mashing. The aim of the entire mashing process is to separate the malt starch contained in the malt from the malt and to convert it into sugar with the help of the enzymes contained in the malt. The various enzymes act at different temperatures, which is why the process undergoes different temperature levels.
+Prosessen der malt blandes med vann kalles mesking. Målet med prosessen er å separere stivelsen i malten fra kornet og å konvertere det til sukker ved hjelp av enzymene som fins i malten. De forskjellige enzymene opererer på forsjellige temperaturer, og dette er årsaken til at prosessen foregår på ulike temperatursteg.
 
-Mashing in
+__Innmesk__
 
-First, fill the vessel with 12 L/ 23 L/ 55 L of brewing water. The malt pipe is not yet inserted. The markings on the tie rod indicate the filling level of 8 L, 10 L and 12 L/15 L, 20 L, and 25 L or 45 L/50 L and 55 L. Press _Select_ to acknowledge that the water has been filled. This switches on the pump and the heating. The pump switches on and off several times for the purpose of venting.
+Fyll først beholderen med 12L / 23L / 55L med vann til bryggingen. Maltpipen skal ikke være satt inn enda. Merkene på stangen i midten indikerer fyllingsnivå for 8L, 10L og 12L / 15L, 20L og 25L eller 45L, 50L og 55L. Trykk på _select_ for å angi at vannet har blitt fylt inn. Dette skrur på pumpen og varmeelementet. Pumpen skrur segs av og på gjentatte ganger for å ventileres.
 
-The pump and the heater are switched on until the programmed mashing-in temperature has been reached. The (P)ump and (H)eating symbols illuminate in yellow colour The target and actual temperatures are shown on the display. The upper status display indicates for instance Automatic3\. This means that the brew automatic mode with recipe 3 was started. Subsequent, a message appears indicating the current program phase.
+Pumpen og varmeelementet forblir skrudd på til steget for innmesk har blitt nådd. Pumpesymbolet(P) og symbolet for varmeelementet (H) lyser med et gult lys. Måltemperaturen og den faktiske temperaturen vises på displayet. Den øverste statusen indikerer for eksempel "Automatic3". Dette betyr at automatisk modus med oppskrift 3 har startet. Bak dette vises en beskjed som indikerer den nåværende programfasen.
 
-When reaching the mashing-in temperature, a signal will be sounded and the lights will be blinking. This must be acknowledged by pressing the _Select_ button. This switches the pump off. Now, follow the instructions of the brew control.
+Når temperaturen for innmesk er nådd, vil et signal høres og lysene vil blinke. Dette må anerkjennes ved å trykke på _Select_ knappen. Pumpen slås dermed av. Videre, følg instruksjonene fra bryggekontrolleren.
 
-The malt pipe can now be inserted into the vessel, with the seal facing downwards. Ensure that the pipe is in the centre and sitting flat on the bottom Then insert the first sieve screen (tubular sleeve upwards) into the malt pipe and place the first fine sieve on the screen. Now pour the entire roughly crushed malt into the malt pipe using a shovel and stir in thoroughly. Ensure that the malt is carefully added to the malt pipe so that nothing falls into the vessel, as this could block the pump. Then insert the second fine sieve and the second filter plate (tubular sleeve upwards). To secure the malt pipe and clamp it down, fasten it with the bow and the wing nut while pressing it down.
+Maltpipen kan nå settes inn i beholderen, med forseglingen vendt nedover. Sørg for at maltpipen er i midten og står stødig på bunnen. Deretter setter du inn den første filterplaten (med midtsylinderen opprover) inn i maltpipen og plasserer den første finmaskede risten på platen. Hell deretter all den knuste malten inn i maltpipen ved hjelp av en sleiv, og rør grundig inn. Sørg for at malten er tilsatt forsiktig slik at ingenting havner i selve beholderen, da dette kan blokkere pumpen. Deretter setter du inn den andre finmaskede risten og den andre filterplaten (med midtsylinderen opprover). Plasser buen for å holde på plass maltpipen, og skru til med vingemutteren.
 
-Once you have filled the malt, acknowledge it by pressing the _Select_ button. For safety reasons, you will receive the prompt “Malt filled in?” And by pressing _Select_ the actual brew process commences with the Braumeister. The pump and the heating switch on. The wort rises up in the pipe and overflows. The cycle has begun and the malt is washed out by means of transfer pumping in the next phases.
+Når du har fylt i malten angir du dette ved å trykke på _Select_ knappen. Av sikkerhetsgrunner vil du få et spørsmål om "Har du fylt i malt?" og ved å trykke på _Select_ vil bryggeprosessen fortsette. Pumpen og varmeelementet vil slås på. Vørteren stiger i maltpipen og vil renne over. Syklusen har nå begynt og malt vil vaskes ut ved hjelp av pumpen i de neste fasene.
 
-Protein rest:
+__Proteinrest__:
 
-In the protein rest, the large protein molecules in the malt are split into small components. Protein rest is important for purification and full body, but especially for foam stability and carbon dioxide binding capacity of the beer. The temperature is around 52°C, and is maintained for 5-20 minutes, depending on the recipe programmed. In order to achieve a better stability of the foam, some recipes omit this phase.
+I proteinresten vil de store proteinmolekylene i malten bli splittet i mindre komponenter. Proteinresten er viktig for klarhet og fylde, men spesielt for skumfasthet og binding av kullsyre i ølen. Temperaturen er rundt 52 grader og blir holdt for 5-20 minutter, avhengig av oppskriften. For å oppnå bedre skumfasthet vil noen oppskrifter hoppe over denne fasen.
 
-The display now indicates the rest, target, and actual temperature, and the target and actual time. After the target temperature has been reached, the countdown starts. All other phases are processed fully automatically. The display indicates in the respective times and temperatures.
+Displayet indikerer nå fasen, målet og den faktiske temperaturen, sammen med ønsket tide og faktisk tid. Etter måltemperaturen har blitt nådd vil nedtellingen starte. All andre faser vil bli prosessert helautomatisk. Displayet indikerer de respektive tider og temperaturer.
 
-By pressing in the _Abbort_ button, the brewing process will be interrupted. Subsequently, a prompt will be displayed asking whether the Automatic process shall be continued or if the entire process shall be cancelled. During this time, the red light is blinking.
+Ved å trykke på _Abort_ knappen vil bryggeprosessen bli stoppet. Deretter vil du få et spørsmål om den automatiske prosessen skal fortsette eller om hele prosessen skal avbrytes. På dette tidspunktet vil det røde lyset blinke.
 
-Maltose rest.
+__Maltoserest__:
 
-In the second phase, the maltose rest, starch molecules are converted to fermentable sugar with the help of additional enzymes present in the malt. This phase is an important stage in the brewing procedure for alcohol formation, as the largest quantities of sugar are formed here. Extending the rest means gaining more sugar in the wort, which leads to a stronger beer. Shortening the time results in beer with a fuller body, due to the increased dextrins. The temperature is around 63°C and is maintained for a period of approx. 35 minutes. As is the case in the first phase, the control shows the relevant data in the display. All following processes (phase 2 to phase 5) are handled fully automatically by the control system. During the entire mashing process, the pump is switched off briefly every 10 minutes (pump break), to reposition the malt and thereby achieve a better yield. The lid of the Braumeister is in place to save energy.
+I den andre fasen, maltoseresten, vil molekyler fra stivelsen konverteres til gjærbart sukker ved hjelp av ytterligere enzymer i malten. Denne fasen er viktig i bryggeprosedyren for å produsere alkohol, da den største andelen sukker blir formet her. Ved å utvide denne fasen kan du få mer sukker i vørteren, noe som leder til en sterkere øl. Å korte ned på tiden vil gi en øl med mer fylde, på grunn av økt andel dekstriner. Temperaturen er rundt 63 grader og holdes i en periode på rundt 35 minutter. I likhet med den første fasen vil kontrolleren vise den relevante informasjonen i displayet. Alle de følgende prosessene (fase 2 til 5) blir gjennomført helautomatisk av kontrollsystemet. Gjennom hele prosessen vil pumpen slås av og på omtrent hvert 10. minutt (pump break), for å la malten posisjonere seg og dermed øke utbyttet. Lokket bør være på for å spare energi.
 
-Sugar rest 1:
+__Sukkerrest 1__:
 
-During the third mashing phase additional starch components are split with the help of enzymes active at this temperature level, and liquefied in the wort. The temperature is approx. 73°C and will be maintained for approximately 35 minutes.
+I løpet av den tredje fasen vil ytterligere stivelseskomponenter bli splitet ved hjelp av enzymer som er aktive på dette temperaturnivået og gjøres bindes i vørteren. Temperaturen er ca 73 grader og skal holdes for ca 35 minutter.
 
-Sugar rest 2:
+__Sukker rest 2__:
 
-In the last phase the residual starches continue to saccharify, thereby forming even more unfermentable extracts, which give the beer slightly more body. The wort is heated to 78°C under continuous transfer pumping and then maintained at this temperature for 10-20 minutes. An iodine test can be used to determine whether the wort still contains residual starch. For this, allow a little wort to drip onto a white plate and add a little iodine. If the sample turns brownish red or yellow, sufficient saccharification has taken place. If this is not the case, the temperature level must be maintained for a longer period of time.
+I den siste fasen vil gjenværende stivelse fortsette sakkrifering, og dermed bidra til enda mer ugjærbart sukker., som gir ølen mer kropp. Vørteren varmes til 78 grader med kontinuerlig pumpeaktivitet og holdes på denne temperaturen i 10-20 minutter. En iodintest kan utføres for å avgjøre om vørteren fremdeles inneholder stivelse. For å gjøre dette, drypp litt vørter på en hvit plate og tilsett iodin. Om prøven blir brunaktig rød eller gul har tilstrekkelig sakkrifering funnet sted. Om dette ikke er tilfelle bør temperaturnivået holdes lenger.

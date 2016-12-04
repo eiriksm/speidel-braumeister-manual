@@ -1,3 +1,3 @@
-## Language selection/illumination/time {#language-selection-illumination-time}
+## Valg av språk / lysstyrke / tid{#language-selection-illumination-time}
 
-When pressing the _Settings_ button in the main menu, the language, illumination, and time screen opens. The arrow keys allow you to make a selection, and choosing the _Select_ function takes you to the various options. These, in turn, can also be selected by activating the arrow keys. Acknowledge your selection by pressing the _Select_ button. Press the _Abbort_ button to return to the main menu.
+Når du trykker på _Settings_ knappen i hovedmenyen vil skjermen med språk, lysstyrke og tid åpnes. Du kan foreta valg med pilknappene, og å trykke på _Select_ kappen tar deg til de forskjellige valgene. Disse kan videre velges i ved å bruke pilknappene. Bekreft ditt valg med å trykke på _Select_ knappen. Trykk på _Abort_ knappen for å returnere til hovedmenyen.

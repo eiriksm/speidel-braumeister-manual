@@ -1,13 +1,13 @@
-## Preparations {#preparations}
+## Forberedelser {#preparations}
 
-Procuring the ingredients
+__Innkjøp av ingredienser__:
 
-Organise the required brewing ingredients (hops, malt and yeast) in good time. Ensure that the malt is fresh. After crushing the malt (breaking open the corns – not too fine) use it up as quickly as possible. The quantities vary slightly, depending on the recipe. However, the amount of malt is 2-2.5/4-5/ 9-11 kg and the amount of hops is about 15-40/ 20-80/ 50-150 g. Normally, the hops is supplied in a pressed form as pellets. We recommend using dry yeast for fermentation as it can be stored more easily and has a longer shelf life. These ingredients are available at commercial outlets for hobby brewers and via the internet.
+Skaff de nødvendige ingrediensene til bryggingen (humle, malt og gjær) i god tid. Sørg for at malten er fersk. Etter malten er kvernet (knuse kornet åpent - ikke for fint) bruk det opp så fort som mulig. Mengden kan variere med oppskriften. Vanligvis vil mengden malt være mellom 2.2-2.5kg/4-5kg/9-11kg og mengden humle er rundt 15-40g/20-80g/50-150g. Ofte vil humlen være tilgjengelig i presset form som pellets. Vi anbefaler å bruke tørrgjær til gjæring da det kan lagres enklere og har lenger holdbarhet. Disse ingrediensene er tilgjengelige i butikker for hobbygryggere og på internett.
 
-Cleaning the devices
+__Rengjøring av utstyr__:
 
-Before starting the brewing process, rinse the Braumeister with warm water and flush the pump by switching it on. All other equipment such as the beer spindle, wooden spoon and fermentation vessel should be ready for use and clean. See also the notes in the chapters “Notes on hygiene” and “Cleaning the Braumeister” in this regard.
+Før du starter bryggeprosessen, vask Braumeisteren med varmt vann og skyll pumpen ved å skru den på. Alt annet utstyr slik som bryggeskje og gjæringskar bør være klart til bruk og rengjort. Se også notatene i kapitlene ["Om hygiene"](../working_with_the_braumeister/notes_on_hygiene.md) og ["Rengjøring av Braumeisteren"](../cleaning_the_braumeister.md) om dette.
 
-Decalcifying the water for brewing
+__Avkalking av vann for brygging__:
 
-Where required, the brewing water can be decalcified. For this, boil the water (cold tap water) in the Braumeister for 30 minutes, allow it to cool and then store it temporarily, for example in the fermentation vessel, until you are ready to start brewing. Dispose of the precipitated calcium that has collected at the bottom of the container. The Braumeister is designed to brew approx. 10 L/20 L/ 50 L ready-to-drink beer (regular beer). You will need 15-20 L/25-30 L/55-60 L brewing water. However, normal (perfectly hygienic, colourless and odourless) cold tap water can also be used by beginners, that is, for first brewing attempts, to keep the effort slightly in check to start off with. In principle, the brewing water should display a hardness less than 14°dH. The softer the water, the better it is suited to brewing.
+Om dette trengs, kan bryggevannet avkalkes. For å gjøre dette, kok vannet (kaldt vann fra springen) i Braumeisteren i 30 minutter, kjøl ned og sett til side, for eksempel i gjæringskaret til du er klar til å brygge. Kvitt deg med det utfelte kalsiumet som har samlet seg på bunnen av beholderen. Braumeisteren er laget for å brygge ca 10L / 20L / 50L ferdig øl (vanlig øl). Du trenger ca 15-20L / 25-30L / 55-60L vann til bryggingen. Riktignok kan vanlig (helt hygienisk, fargeløs og luktfri) springvann brukes av nybegynnere, for å gjøre det enklere å komme i gang. I prinsippet skal bryggevannet ha en hardhet på mindre enn 14°dH. Jo mykere vannet er, jo bedre er det egnet til å brygge med.
