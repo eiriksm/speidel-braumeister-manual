@@ -1,1 +1,0 @@
-# Sikkerhetsinstruks {#safety-instructions}
