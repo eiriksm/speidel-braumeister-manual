@@ -6,17 +6,25 @@ __Innmesk__
 
 Fyll først beholderen med 12L / 23L / 55L med vann til bryggingen. Maltpipen skal ikke være satt inn enda. Merkene på stangen i midten indikerer fyllingsnivå for 8L, 10L og 12L / 15L, 20L og 25L eller 45L, 50L og 55L. Trykk på _select_ for å angi at vannet har blitt fylt inn. Dette skrur på pumpen og varmeelementet. Pumpen skrur segs av og på gjentatte ganger for å ventileres.
 
+![ill](/resources/img/mash1.png)
+
 Pumpen og varmeelementet forblir skrudd på til steget for innmesk har blitt nådd. Pumpesymbolet(P) og symbolet for varmeelementet (H) lyser med et gult lys. Måltemperaturen og den faktiske temperaturen vises på displayet. Den øverste statusen indikerer for eksempel "Automatic3". Dette betyr at automatisk modus med oppskrift 3 har startet. Bak dette vises en beskjed som indikerer den nåværende programfasen.
+
+![ill](/resources/img/mash2.png)
 
 Når temperaturen for innmesk er nådd, vil et signal høres og lysene vil blinke. Dette må anerkjennes ved å trykke på _Select_ knappen. Pumpen slås dermed av. Videre, følg instruksjonene fra bryggekontrolleren.
 
 Maltpipen kan nå settes inn i beholderen, med forseglingen vendt nedover. Sørg for at maltpipen er i midten og står stødig på bunnen. Deretter setter du inn den første filterplaten (med midtsylinderen opprover) inn i maltpipen og plasserer den første finmaskede risten på platen. Hell deretter all den knuste malten inn i maltpipen ved hjelp av en sleiv, og rør grundig inn. Sørg for at malten er tilsatt forsiktig slik at ingenting havner i selve beholderen, da dette kan blokkere pumpen. Deretter setter du inn den andre finmaskede risten og den andre filterplaten (med midtsylinderen opprover). Plasser buen for å holde på plass maltpipen, og skru til med vingemutteren.
+
+![ill](/resources/img/mash3.png)
 
 Når du har fylt i malten angir du dette ved å trykke på _Select_ knappen. Av sikkerhetsgrunner vil du få et spørsmål om "Har du fylt i malt?" og ved å trykke på _Select_ vil bryggeprosessen fortsette. Pumpen og varmeelementet vil slås på. Vørteren stiger i maltpipen og vil renne over. Syklusen har nå begynt og malt vil vaskes ut ved hjelp av pumpen i de neste fasene.
 
 __Proteinrest__:
 
 I proteinresten vil de store proteinmolekylene i malten bli splittet i mindre komponenter. Proteinresten er viktig for klarhet og fylde, men spesielt for skumfasthet og binding av kullsyre i ølen. Temperaturen er rundt 52 grader og blir holdt for 5-20 minutter, avhengig av oppskriften. For å oppnå bedre skumfasthet vil noen oppskrifter hoppe over denne fasen.
+
+![ill](/resources/img/mash4.png)
 
 Displayet indikerer nå fasen, målet og den faktiske temperaturen, sammen med ønsket tide og faktisk tid. Etter måltemperaturen har blitt nådd vil nedtellingen starte. All andre faser vil bli prosessert helautomatisk. Displayet indikerer de respektive tider og temperaturer.
 

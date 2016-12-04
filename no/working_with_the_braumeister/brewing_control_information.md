@@ -1,5 +1,7 @@
 ## Informasjon om bryggekontrolleren {#brewing-control-information}
 
+![ill](/resources/img/binfo.png)
+
 Automatisk modus: Trykk på _Brewstart_, velg en oppskrift og trykk på _Select_ for å begynne. Følg instruksjonene. En detaljert beskrivelse kan finnes i kapittelet ["Brygging med Braumeisteren"](../brewing_with_the_braumeister/README.md)
 
 Oppskrifter: Opp til 10 oppskrifter kan lagres når du trykker på _Recipe_ funksjonen. Når du mottar utstyret er 2 oppskrifter inkludert. Bruk pilknappene for å velge en oppskrift først, for å lage en ny eller slette en oppskrift. Ved å trykke på _Select_ knappen kan du endre en eksisterende oppskrift. Pilknappene gjør at du kan modifisere hvilke oppføringer du vil. Bruk _Select_ knappen for å flytte deg til den neste linjen til du har nådd slutten. Når alle rader har blitt bekreftet ved å trykke på _Select_ knappen blir oppskriften lagret.

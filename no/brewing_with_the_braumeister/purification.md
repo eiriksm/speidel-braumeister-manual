@@ -1,6 +1,10 @@
 ## Klarning {#purification}
 
+![ill](/resources/img/kl1.png)
+
 Etter bryggefasene er over vil et nytt signal lyde. Dette kan også anerkjennes ved å trykke _Select_. Pumpen skrus av og du bes om å starte klarningen ved å fjerne maltpipen. Klarning betyr å separere den knuste malten fra vørteren. Klarning med Braumeisteren er en relativt enkel og rask øvelse sammenliknet med andre hjemmebryggmetoder, og representerer et sentralt konsept ved Braumeisteren. Fjern vingemutteren og buen. Plasser dryppebuen på kanten av beholderen og bruk løftebuen til å sakte og forsiktig fjerne maltpipen fra beholderen. La maltpipen henge på dryppebuen på de lavere støtteskruene for å la vørter renne ned fra maltpipen til beholderen. Løs opp i malten ved å vaske gjennom malten en gang til. Denne prosessen kalles "skylling" (denne prosessen er ikke essensiel). Skylling gjøres ved å tømme vann på 78 grader (max 78 grader, ikke bruk kokende vann) inn gjennom toppen av maltpipen. Fjern den øvre filterplaten inkludert den finmaskede risten. Og bruk en lang tresleiv til å stikke hull på malten slik at så lite vørter som mulig "skjuler seg" i malten. I skylleprosessen holdes temperaturen konstant på den forhåndsprogrammerte temperaturen 78 grader. Etter 15 til 20 minutter med skylling, fjern maltpipen og kast malten. Av sikkerhetsgrunner anbefaler vi å bruke votter som tåler varme i denne prosessen, da alle komponenter vil ha en ekstremt høy temperatur.
+
+![ill](/resources/img/kl2.png)
 
 Etter du har fjernet maltpipen, bekreft dette ved å trykke på _Select_ knappen. For å starte koking av humle trykk på _Select_ knappen igjen. Pumpen og varmeelementet skrur seg på igjen, og den automatiske bryggeprosessen fortsetter.
 
